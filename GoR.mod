@@ -1,0 +1,16 @@
+version="1.14.*"
+tags={
+	"Sound"
+	"Translation"
+	"Ideologies"
+	"Map"
+	"National Focuses"
+	"Graphics"
+	"Events"
+	"Alternative History"
+	"Technologies"
+	"Balance"
+}
+name="Gates of Rassennia: Ancestor's paths"
+supported_version="1.14.5"
+path="C:/Users/User/Documents/Paradox Interactive/Hearts of Iron IV/mod/GoR"

@@ -1,0 +1,15 @@
+version="1.14.*"
+tags={
+	"Sound"
+	"Translation"
+	"Ideologies"
+	"Map"
+	"National Focuses"
+	"Graphics"
+	"Events"
+	"Alternative History"
+	"Technologies"
+	"Balance"
+}
+name="Gates of Rassennia: Ancestor's paths"
+supported_version="1.14.5"
