@@ -1,4 +1,6 @@
 version="1.14.*"
+replace_path="common"
+replace_path="events"
 tags={
 	"Sound"
 	"Translation"
@@ -11,5 +13,6 @@ tags={
 	"Technologies"
 	"Balance"
 }
+picture="thumbnail.png"
 name="Gates of Rassennia: Ancestor's paths"
 supported_version="1.14.5"
