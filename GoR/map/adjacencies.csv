@@ -22,13 +22,13 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 6891;3838;sea;5579;-1;-1;-1;-1;;Sardinia-Corsica
 9990;4159;sea;5681;-1;-1;-1;-1;;Calabria-Sicily
 9793;9845;sea;8871;-1;-1;-1;-1;;Menorca-Mallorca
-12299;12113;sea;5539;-1;-1;-1;-1;;Singapore-Batam
-7396;1401;sea;4225;-1;-1;-1;-1;;Bangka Belitung-Sumatra
-1342;10279;sea;2737;-1;-1;-1;-1;;Java-Sumatra
-7396;4211;sea;4225;-1;-1;-1;-1;;Bangka-Belitung
-1460;12126;sea;812;-1;-1;-1;-1;;Tanahbala-Sumatra
-12126;1428;sea;812;-1;-1;-1;-1;;Tanahbala-Siberut
-4306;4608;sea;5666;-1;-1;-1;-1;;Soerbaja-Madura
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
 7654;4273;sea;2239;-1;-1;-1;-1;;Java-Bali
 7293;4273;sea;2239;-1;-1;-1;-1;;Bali-Lombok
 7293;10191;sea;2239;-1;-1;-1;-1;;Lombok-W.Nusa Tenggara
@@ -89,8 +89,8 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 2489;13033;sea;7918;-1;-1;-1;-1;;Truk-Hall Islands
 13041;13044;sea;7287;-1;-1;-1;-1;;Carolines 1
 13042;13043;sea;2414;-1;-1;-1;-1;;Carolines 2
-10276;7669;sea;5263;-1;-1;-1;-1;;Tiwi-Darwin
-12910;7567;sea;5771;-1;-1;-1;-1;;Adelaide-Kangaroo Island
+;;;;;;;;;
+;;;;;;;;;
 4526;153;sea;2571;-1;-1;-1;-1;;Curacao-Zulia
 10767;3284;sea;2597;-1;-1;-1;-1;;Miranda-Trinidad
 13012;3284;sea;2597;-1;-1;-1;-1;;Tobago-Trinidad
@@ -116,7 +116,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 ;;;;;;;;;
 ;;;;;;;;;
 9859;3962;sea;5946;-1;-1;-1;-1;;Tsugaru Strait
-4160;1070;sea;5244;-1;-1;-1;-1;;Hainan-Strait
+;;;;;;;;;
 1712;12147;sea;8978;-1;-1;-1;-1;;Quebec-Strait
 3691;7813;sea;6261;-1;-1;-1;-1;;Cold Ass-Strait
 7259;1393;sea;5257;-1;-1;-1;-1;;Vancouver-Strait

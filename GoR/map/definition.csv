@@ -52,7 +52,7 @@
 51;0;34;236;sea;false;ocean;0
 52;0;36;90;land;false;plains;1
 53;0;36;195;land;true;plains;1
-54;0;36;244;sea;false;ocean;0
+54;0;36;244;land;false;plains;6
 55;0;37;232;sea;false;ocean;0
 56;0;38;240;sea;true;ocean;0
 57;0;39;55;land;false;forest;1
@@ -3830,7 +3830,7 @@
 3829;46;33;163;land;false;hills;2
 3830;46;33;218;land;false;plains;6
 3831;46;34;232;sea;false;ocean;0
-3832;46;35;240;sea;false;ocean;0
+3832;46;35;240;land;false;plains;6
 3833;46;36;78;land;false;mountain;1
 3834;46;36;128;land;false;mountain;2
 3835;46;36;183;land;false;hills;1
@@ -4158,7 +4158,7 @@
 4157;47;156;53;land;true;plains;6
 4158;47;156;158;land;false;plains;6
 4159;47;159;18;land;true;mountain;1
-4160;47;159;73;land;true;plains;6
+4160;47;159;73;land;true;urban;6
 4161;47;159;223;land;true;desert;7
 4162;47;162;38;land;true;forest;6
 4163;47;162;83;land;true;hills;5
@@ -5242,7 +5242,7 @@
 5241;53;16;248;sea;false;ocean;0
 5242;53;17;236;sea;false;ocean;0
 5243;53;18;244;sea;false;ocean;0
-5244;53;20;232;sea;true;ocean;0
+5244;53;20;232;lake;true;lakes;6
 5245;53;21;240;sea;false;ocean;0
 5246;53;23;236;sea;true;ocean;0
 5247;53;25;244;sea;true;ocean;0
@@ -5286,7 +5286,7 @@
 5285;55;1;218;sea;false;ocean;0
 5286;55;2;240;sea;false;ocean;0
 5287;55;4;248;sea;false;ocean;0
-5288;55;6;236;sea;false;ocean;0
+5288;55;6;236;land;false;plains;6
 5289;55;8;244;sea;false;ocean;0
 5290;55;10;232;sea;true;ocean;0
 5291;55;12;240;land;false;hills;1
@@ -9055,7 +9055,7 @@
 9054;126;18;29;land;false;plains;1
 9055;126;18;74;land;true;forest;1
 9056;126;18;179;land;false;forest;1
-9057;126;19;236;sea;true;ocean;0
+9057;126;19;236;land;true;plains;4
 9058;126;20;244;sea;false;ocean;0
 9059;126;21;39;land;false;marsh;1
 9060;126;21;94;land;false;forest;1
@@ -13716,7 +13716,7 @@
 13715;0;50;231;sea;true;ocean;0
 13716;42;17;24;land;false;mountain;1
 13717;6;4;23;land;false;plains;1
-13718;26;71;225;land;false;plains;0
+13718;26;71;225;land;false;plains;1
 13719;35;85;215;sea;true;ocean;0
 13720;7;56;17;land;false;mountain;2
 13721;0;50;227;sea;true;ocean;0
