@@ -45,6 +45,6 @@ tags={
 	"Balance"
 }
 picture="thumbnail.png"
-name="Gates of Rassennia: Ancestor's paths"
+name="Gates of Rassennia: Games of the gods"
 supported_version="1.14.5"
 path="C:/Users/User/Documents/Paradox Interactive/Hearts of Iron IV/mod/GoR"

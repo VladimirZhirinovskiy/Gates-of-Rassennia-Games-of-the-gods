@@ -6,7 +6,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 2729;2408;sea;6389;2948;1598;2966;1611;KIEL_CANAL;Kiel
 13157;8642;sea;6778;1618;423;1695;373;LAWRENCE_STRAIT;Saint Lawrence
 5681;5707;sea;;-1;-1;-1;-1;MESSINA_STRAIT;Strait of Messina
-5388;803;sea;1155;-1;-1;-1;-1;SUEZ_CANAL;Suez
+5388;6011;sea;4073;-1;-1;-1;-1;SUEZ_CANAL;Suez
 13199;13156;sea;393;-1;-1;-1;-1;STCLAIR_RIVER;St Clair River
 13156;13253;sea;9667;-1;-1;-1;-1;DETROIT_RIVER;Detroit River
 13154;13255;sea;11654;-1;-1;-1;-1;WELLAND_CANAL;Welland Canal
@@ -47,7 +47,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 1237;12120;sea;5660;-1;-1;-1;-1;;New Caledonia 2
 12632;1814;sea;5637;-1;-1;-1;-1;;North-South NZ Islands
 10231;10248;sea;430;-1;-1;-1;-1;;New Guinea-Fergusson
-12246;10288;sea;5513;-1;-1;-1;-1;;Cobourg-Australia
 1042;7437;sea;6819;-1;-1;-1;-1;;San Cristobal-Guadalcanal
 4292;10319;sea;5868;-1;-1;-1;-1;;Guadalcanal-Munda
 10319;12265;sea;5868;-1;-1;-1;-1;;Munda-Choiseul
