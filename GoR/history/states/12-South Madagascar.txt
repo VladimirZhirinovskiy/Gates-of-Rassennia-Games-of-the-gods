@@ -1,0 +1,20 @@
+state={
+	id=12
+	name="STATE_12"
+	manpower=174749
+	buildings_max_level_factor=1.000
+	
+	state_category=pastoral
+
+	history={
+		owner = ZZZ
+		add_core_of = ZZZ
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		5692 5960 6030 7714 8771
+	}
+}

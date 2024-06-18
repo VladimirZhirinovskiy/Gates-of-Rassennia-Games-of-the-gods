@@ -1,0 +1,21 @@
+state={
+	id=11
+	name="STATE_11"
+	manpower=45721
+	buildings_max_level_factor=1.000
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = ZZZ
+		add_core_of = ZZZ
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		439 8776 8777
+	}
+}

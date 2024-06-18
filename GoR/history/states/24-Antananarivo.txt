@@ -1,0 +1,22 @@
+state={
+	id=24
+	name="STATE_24"
+	manpower=721891
+	buildings_max_level_factor=1.000
+	
+	state_category=rural
+
+	history={
+		owner = ZZZ
+		add_core_of = ZZZ
+		victory_points = { 13527 20 }
+		buildings = {
+			infrastructure = 3
+			air_base=1
+		}
+	}
+
+	provinces={
+		13527 
+	}
+}

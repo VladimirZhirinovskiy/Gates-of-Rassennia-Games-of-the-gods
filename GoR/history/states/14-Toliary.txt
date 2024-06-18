@@ -1,0 +1,23 @@
+state={
+	id=14
+	name="STATE_14"
+	manpower=31321
+	buildings_max_level_factor=1.000
+	
+	state_category=pastoral
+
+	history={
+		owner = ZZZ
+		add_core_of = ZZZ
+		buildings = {
+			infrastructure = 1
+		}
+
+		victory_points = { 2979 5 }
+	}
+
+	provinces={
+		2979
+	}
+	
+}

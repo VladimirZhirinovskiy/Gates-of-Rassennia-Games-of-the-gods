@@ -1,0 +1,21 @@
+state={
+	id=13
+	name="STATE_13"
+	manpower=217510
+	buildings_max_level_factor=1.000
+	
+	state_category=pastoral
+
+	history={
+		owner = ZZZ
+		add_core_of = ZZZ
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = { 5995 1 }
+	}
+
+	provinces={
+		2200 2417 5995 6043 6640 7017 8948 8970 12956 
+	}
+}

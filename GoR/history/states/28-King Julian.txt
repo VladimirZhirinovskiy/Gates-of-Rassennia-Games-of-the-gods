@@ -1,0 +1,21 @@
+state={
+	id=28
+	name="STATE_28"
+	manpower=71253
+	buildings_max_level_factor=1.000
+	
+	state_category=wasteland
+
+	history={
+		owner = ZZZ
+		add_core_of = ZZZ
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={
+		9947
+	}
+	
+}
