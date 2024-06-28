@@ -1,22 +1,24 @@
 state={
-	id=30
-	name="STATE_30"
-	manpower=12471
+	id=41
+	name="STATE_41"
+	manpower=126703
 	buildings_max_level_factor=1.000
 	
-	state_category=pastoral
+	state_category=small_island
 
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
-		victory_points = { 8729 5 }
+		victory_points = { 13072 10 }
 		buildings = {
 			infrastructure = 2
+			13072 = {
+				naval_base = 2
+			}
 		}
 	}
 
 	provinces={
-		8729
+		13072
 	}
-	
 }

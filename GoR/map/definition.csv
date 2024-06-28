@@ -8648,7 +8648,7 @@
 8647;110;15;248;sea;false;ocean;0
 8648;110;18;244;sea;false;ocean;0
 8649;110;19;232;sea;false;ocean;0
-8650;110;20;240;sea;false;ocean;0
+8650;110;20;240;land;true;plains;5
 8651;110;21;248;land;false;jungle;5
 8652;110;23;236;land;false;jungle;5
 8653;1;105;246;lake;false;lakes;0

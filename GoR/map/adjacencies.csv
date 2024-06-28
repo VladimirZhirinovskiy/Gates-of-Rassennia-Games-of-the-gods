@@ -22,7 +22,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 6891;3838;sea;5579;-1;-1;-1;-1;;Sardinia-Corsica
 9990;4159;sea;5681;-1;-1;-1;-1;;Calabria-Sicily
 9793;9845;sea;8871;-1;-1;-1;-1;;Menorca-Mallorca
-7654;4273;sea;2239;-1;-1;-1;-1;;Java-Bali
 7293;4273;sea;2239;-1;-1;-1;-1;;Bali-Lombok
 7293;10191;sea;2239;-1;-1;-1;-1;;Lombok-W.Nusa Tenggara
 12162;1298;sea;2124;-1;-1;-1;-1;;West Nusa Tenggara-East Nusa Tenggara

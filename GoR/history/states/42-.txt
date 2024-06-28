@@ -1,21 +1,20 @@
 state={
-	id=23
-	name="STATE_23"
-	manpower=105135
+	id=42
+	name="STATE_42"
+	manpower=1
 	buildings_max_level_factor=1.000
 	
-	state_category=pastoral
+	state_category=small_island
 
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
 		buildings = {
 			infrastructure = 1
+			}
 		}
-	}
 
 	provinces={
-		7937 13018 
+		2165 8650
 	}
-	
 }
